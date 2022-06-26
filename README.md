@@ -1,2 +1,2 @@
 # mouleon
-Personal website
+A personal website built in React
