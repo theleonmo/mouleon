@@ -3,9 +3,9 @@ import styles from "./NavBar.module.css";
 
 function NavBar() {
     return (
-        <div className={styles.bar}>
+        <nav className={styles.NavBar}>
             <p></p>
-        </div>
+        </nav>
     )
 }
 
