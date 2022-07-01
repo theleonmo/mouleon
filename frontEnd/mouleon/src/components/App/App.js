@@ -1,8 +1,8 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import "./App.css";
-import TopBar from "../bar/bar.js"
-import LDButton from "../light_dark_button/light_dark_button.js";
+import NavBar from "../NavBar/NavBar.js"
+import LightDarkButton from "../LightDarkButton/LightDarkButton.js";
 
 function App() {
 // states
@@ -12,8 +12,8 @@ function App() {
     <div className="App">
       <main>
         <div>
-          <LDButton />
-          <TopBar />
+          <LightDarkButton />
+          <NavBar />
         </div>
         <div></div>
       </main>

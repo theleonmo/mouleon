@@ -1,7 +1,7 @@
 import React from "react";
-import styles from "./bar.module.css";
+import styles from "./NavBar.module.css";
 
-function TopBar() {
+function NavBar() {
     return (
         <div className={styles.bar}>
             <p></p>
@@ -9,4 +9,4 @@ function TopBar() {
     )
 }
 
-export default TopBar;
+export default NavBar;
