@@ -7,3 +7,16 @@
     background: #8AFF91;
     z-index: 1;
 }
+
+.NavList {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+    .NavListItem {
+        float: left;
+        margin:;
+        padding: 100;
+    }

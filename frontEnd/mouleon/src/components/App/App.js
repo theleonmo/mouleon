@@ -1,6 +1,6 @@
 import React from "react";
 import { useState, useEffect } from "react";
-import "./App.css";
+import styles from "./App.module.css";
 import NavBar from "../NavBar/NavBar.js"
 import LightDarkButton from "../LightDarkButton/LightDarkButton.js";
 
@@ -9,13 +9,11 @@ function App() {
   
 
   return (
-    <div className="App">
+    <div className={styles.App}>
       <main>
         <div>
-          <LightDarkButton />
           <NavBar />
         </div>
-        <div></div>
       </main>
     </div>
   );
