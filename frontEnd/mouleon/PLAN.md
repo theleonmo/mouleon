@@ -1,3 +1,5 @@
+¡¡CHECK COMPONENT TREE!!
+
 1. Sort spacing of webpage - navbar and background
 
 2. Add items to NavBar
