@@ -1,11 +1,12 @@
 .NavBar {
-    position: absolute;
-    width: 1728px;
-    height: 80px;
-    left: 0px;
-    top: 0px;
-    background: #8AFF91;
-    z-index: 1;
+  overflow: hidden;
+  background-color: #8AFF91;
+  position: fixed; /* Set the navbar to fixed position */
+  height: 80px;
+  left: 0;
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  text-align: center;
 }
 
 .NavList {
@@ -13,10 +14,10 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
+  font-family: 'Quicksand', sans-serif;
 }
 
-    .NavListItem {
-        float: left;
-        margin:;
-        padding: 100;
-    }
+.NavListItem {
+    display: inline-block;
+    margin:50px;
+}

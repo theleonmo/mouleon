@@ -15,7 +15,8 @@ SECOND CYCLE - Fill out page:
 4. Blog - ARTICLES COMING SOON
 5. Contact - Email
 
-THIRD CYCLE - Dark/Light Mode button:
+THIRD CYCLE 
+1. Dark/Light Mode button:
 
 FOURTH CYCLE - Contact box
 1. Work - make this more visual/interactive with the languages you've learnt/are learning
@@ -23,8 +24,11 @@ FOURTH CYCLE - Contact box
 3. Have a 'contact me' box instead of just listing your email - will require a backend
 
 FIFTH CYCLE 
-Create landing page - see figma
+1. Create landing page - see figma
 
 SIXTH CYCLE
 1. Blog - Write an article?
 2. Pie chart in 'about' section for why you decided to learn to code
+
+SEVENTH CYCLE 
+1. 3D animation - Three.js - depicting you at your desk
